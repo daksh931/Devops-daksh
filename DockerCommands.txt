@@ -1,5 +1,0 @@
-docker ps
-docker ps -a
-docker logs
-docker network
-docker build
